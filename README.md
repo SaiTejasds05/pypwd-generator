@@ -76,8 +76,8 @@ This project is [MIT](LICENSE) licensed.
 ## 👤 Author
 
 Your Name
-- GitHub: [@your-github-username](https://github.com/your-github-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)
+- GitHub: SaiTejasds05
+- LinkedIn: https://www.linkedin.com/in/sai-tejas-102b18250/
 
 ## 🌟 Show your support
 
